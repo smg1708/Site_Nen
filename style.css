@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.8; /* Aumenta o espaçamento entre linhas */
+    margin: 0;
+    padding: 20px;
+    max-width: 800px;
+    margin: auto; /* Centraliza o conteúdo */
+}
+
+h1, h2, h3 {
+    margin-bottom: 15px; /* Espaço abaixo dos títulos */
+}
+
+p {
+    margin-bottom: 20px; /* Espaçamento entre parágrafos */
+}
+
+blockquote {
+    font-style: italic;
+    padding: 10px;
+    border-left: 4px solid #ccc; /* Dá um efeito visual ao bloco de citação */
+    background: #f9f9f9;
+}
